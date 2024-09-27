@@ -1,0 +1,6 @@
+__pycache__/
+violette-env
+models
+samples
+.DS_Store
+venv
